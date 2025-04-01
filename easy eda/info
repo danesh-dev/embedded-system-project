@@ -1,0 +1,462 @@
+{
+  "uuid": "5363d8ec7db2eec5dad40081548acf0e",
+  "path": "Offline/ES Project",
+  "name": "ES Project",
+  "content": "",
+  "created_at": "2025-03-23 08:04:53",
+  "updated_at": "2025-03-31 07:27:20",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c2a1cf4866be110f42eb135972e954ac",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "588dac9f81df8f83843513972963b454": 1,
+        "5d613efbfe5d4ffea7e324d4684971a0": 2,
+        "24eeb2ceca08480b92b847b6a310acda": 6,
+        "36628af0fe3849a2f482991ed56c81b7": 1,
+        "a462587a533641f19b4d16886ff85016": 1,
+        "7e5804c019dc452289804819541ceb66": 1,
+        "c5b06e5c640740688c5e86bd1b9b3dc9": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 1,
+        "2516d9fed64447df86bf047266407295": 1,
+        "97a9ded0a206407391301c0eb630e73a": 1,
+        "b20358d2a149440481e57401a4d62fc7": 1,
+        "50900198c01345a7ba9d0d2f92e2164f": 1,
+        "378db85a09ba49f39a890b76c4a27df7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BH-18650",
+          2,
+          "BAT-TH_BH-18650",
+          "BAT1,BAT2",
+          {
+            "Manufacturer Part": "BH-18650",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900017971"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1µF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470µF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SIM800L",
+          1,
+          "SIM800LMODULE_SIM800LMODULE",
+          "M1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ADXL345",
+          1,
+          "ADXL345",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "AdaFruit",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SWITCH SPST",
+          1,
+          "TOGGLESWITCH SPST",
+          "SW1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "NEO-6M",
+          1,
+          "GPSM-SMD_24P-L16.0-W12.2-P1.10",
+          "U1",
+          {
+            "Manufacturer Part": "NEO-6M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2927633"
+          }
+        ],
+        [
+          "ATMEGA328P-PU",
+          1,
+          "DIP-28_L34.6-W7.3-P2.54-LS10.2-BL",
+          "U2",
+          {
+            "Manufacturer Part": "ATMEGA328P-PU",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C33901"
+          }
+        ],
+        [
+          "TP4056 Micro",
+          1,
+          "TP4056 MICRO",
+          "U3",
+          {
+            "Manufacturer Part": "TP4056 Micro",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16mhz",
+          1,
+          "16MHZCRYSTAL",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "DeepSpace",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U6",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "TXS0108E",
+          1,
+          "TXS0108E",
+          "U7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED0603B",
+          1,
+          "LED0603-RD",
+          "U8",
+          {
+            "Manufacturer Part": "LED0603B",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005354"
+          }
+        ]
+      ],
+      "updateTime": 1743431240,
+      "createTime": 1742742294,
+      "histories": [],
+      "created_at": "2025-03-23 08:04:54",
+      "updated_at": "2025-03-31 07:27:20"
+    },
+    {
+      "uuid": "7a1b5e4e27d49768df0e4bc4ff286b24",
+      "puuid": "5363d8ec7db2eec5dad40081548acf0e",
+      "title": "PCB_ES Project",
+      "filename": "PCB_ES Project.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "eff73616b67a49b49045dd045b79ffd9": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 6,
+        "19b993648a45454a8b914540def5ca2c": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "7fba8d83fbfd4436bd11b4acb5625c3c": 1,
+        "2f1d96128ab94db491eae99d61bfb39c": 1,
+        "3889cd7e1d0b4f7691eab409018ccd96": 1,
+        "220efa6b4bc34c15b9218b0fe3792498": 1,
+        "0edf82dd5cd342698824752f8fbf6989": 1,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "44c3f0b7ab9541beb28716e37988648f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BH-18650",
+          2,
+          "BAT-TH_BH-18650",
+          "BAT1,BAT2",
+          {
+            "Manufacturer Part": "BH-18650",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900017971"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1µF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "500µF",
+          1,
+          "C0603",
+          "C5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1000µF",
+          1,
+          "C0603",
+          "C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ADXL345",
+          1,
+          "ADXL345",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "AdaFruit",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "NEO-6M",
+          1,
+          "GPSM-SMD_24P-L16.0-W12.2-P1.10",
+          "U1",
+          {
+            "Manufacturer Part": "NEO-6M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2927633"
+          }
+        ],
+        [
+          "ATMEGA328P-PU",
+          1,
+          "DIP-28_L34.6-W7.3-P2.54-LS10.2-BL",
+          "U2",
+          {
+            "Manufacturer Part": "ATMEGA328P-PU",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C33901"
+          }
+        ],
+        [
+          "TP4056 Micro",
+          1,
+          "TP4056 MICRO",
+          "U3",
+          {
+            "Manufacturer Part": "TP4056 Micro",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SIM800L",
+          1,
+          "GSMM-SMD_SIM800L",
+          "U4",
+          {
+            "Manufacturer Part": "SIM800L",
+            "Manufacturer": "SIMCOM(芯讯通无线科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124276"
+          }
+        ],
+        [
+          "16mhz",
+          1,
+          "16MHZCRYSTAL",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "DeepSpace",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U6",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "TXS0108E",
+          1,
+          "TXS0108E",
+          "U7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1743349385,
+      "createTime": 1743349385,
+      "histories": [],
+      "created_at": "2025-03-30 08:43:05",
+      "updated_at": "2025-03-30 08:43:05"
+    }
+  ],
+  "sort": [],
+  "title": "ES Project",
+  "foldername": "ES Project",
+  "schfilename": "ES Project.json",
+  "schfilemtime": 1743431240856
+}
